@@ -1223,16 +1223,20 @@
 				display: none;
 			}
 
-		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
+		
+                #header .logo {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			padding: 0.5em;
+                        display: inline-block;
+                        background-color: rgba(255, 255, 255, 0.075);
 		}
 
-			#header .logo .icon:before {
-				font-size: 2rem;
+			#header .logo img {
+				border-radius: 100%;
+				display: block;
+				width: 10em;
 			}
 
 		#header .content {
@@ -1265,7 +1269,13 @@
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
-				line-height: 2;
+				line-height: 2
+			}
+                        #header .content h1 {
+				text-transform: uppercase;
+				letter-spacing: 0.12rem;
+				font-size: 1.5rem;
+				line-height: 2
 			}
 
 		#header nav ul {
