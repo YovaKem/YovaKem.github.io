@@ -1236,7 +1236,7 @@
 			#header .logo img {
 				border-radius: 100%;
 				display: block;
-				width: 10em;
+				width: 14em;
 			}
 
 		#header .content {
@@ -1389,7 +1389,7 @@
 				line-height: 4.75rem;
 			}
 
-				#header .logo .icon:before {
+				#header .logo img {
 					font-size: 1.75rem;
 				}
 
