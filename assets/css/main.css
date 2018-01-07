@@ -1390,7 +1390,9 @@
 			}
 
 				#header .logo img {
-					font-size: 1.75rem;
+					border-radius: 100%;
+				        display: block;
+				        width: 4.47em;
 				}
 
 			#header .content .inner {
