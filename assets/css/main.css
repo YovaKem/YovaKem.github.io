@@ -1384,7 +1384,9 @@
 				}
 
 			#header .logo {
-				line-height: 4em;
+				width: 4.75rem;
+				height: 4.75rem;
+				line-height: 4.75rem;
                                 display: inline-block;
                                 
 			}
@@ -1392,7 +1394,7 @@
 				#header .logo img {
 					border-radius: 100%;
 				        display: block;
-				        width: 4em;
+				        width: 4.75em;
 				}
 
 			#header .content .inner {
