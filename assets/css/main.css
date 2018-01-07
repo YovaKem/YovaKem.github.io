@@ -1383,17 +1383,6 @@
 					height: calc(2rem + 1px);
 				}
 
-			#header .logo {
-				line-height: 4.75rem;
-                                display: inline-block;
-                                
-			}
-
-				#header .logo img {
-					border-radius: 100%;
-				        display: block;
-				        width: 4.75em;
-				}
 
 			#header .content .inner {
 				padding: 2.5rem 1rem;
