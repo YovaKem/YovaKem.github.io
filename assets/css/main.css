@@ -1228,7 +1228,7 @@
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			
+			padding: 0.5em;
                         display: inline-block;
                         background-color: rgba(255, 255, 255, 0.075);
 		}
@@ -1383,19 +1383,7 @@
 					height: calc(2rem + 1px);
 				}
 
-			#header .logo {
-				width: 4.75rem;
-				height: 4.75rem;
-				line-height: 4.75rem;
-                                display: inline-block;
-                                
-			}
-
-				#header .logo img {
-					border-radius: 100%;
-				        display: block;
-				        width: 4.75em;
-				}
+			
 
 			#header .content .inner {
 				padding: 2.5rem 1rem;
